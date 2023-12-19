@@ -1,0 +1,29 @@
+
+body {
+  font-family: "PT Sans Caption", sans-serif;
+}
+.book {
+  min-height: 100vh;
+background-image:linear-gradient(#f7ecde,rgb(0 0 0 / 92%)),url(../img/work-1.jpg);
+background-position: center ;
+background-size: cover;
+}
+.book h1 {
+  font-size: 50px;
+  font-family: "Pacifico", cursive;
+  color: #352e28;
+  background-image: linear-gradient(to right, #a53c3efc, #0e0105);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.book-body h2 {
+  font-family: "Righteous", cursive;
+  font-size: 25px;
+  background-image: linear-gradient(to right, #3ca55c, #dc3545);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+table {
+  vertical-align: middle !important;
+}
